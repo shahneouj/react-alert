@@ -1,0 +1,23 @@
+{
+  "name": "react-alert",
+  "version": "1.0.0",
+  "description": "all kinds of react alert function and customizable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahneouj/react-alert.git"
+  },
+  "keywords": [
+    "react",
+    "alert"
+  ],
+  "author": "shahneouj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahneouj/react-alert/issues"
+  },
+  "homepage": "https://github.com/shahneouj/react-alert#readme"
+}
